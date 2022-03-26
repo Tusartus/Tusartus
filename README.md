@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arthus
-- 👀 I'm interested in programming and contributing in open source software
+- 👀 I'm interested in programming 
 
 - 💞️ I’m looking to collaborate on  projects using  java /spring framework,
               PHP 7+ and Laravel, vanilla javascript, angular 2+/typescript, Reactjs ,Nodejs, ython 3
