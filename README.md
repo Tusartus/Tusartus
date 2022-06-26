@@ -1,11 +1,9 @@
 - 👋 Hi,there. I’m Arthus
-
+-  How to reach me: arthus@avarthusdev.com
 
 <img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tusartus&show_icons=true&theme=radical"  />
 
 <img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusartus&layout=compact)](https://github.com/Tusartus/github-readme-stats"  />
-
-
 <br>
 <hr>
 <img align="left"  width="17%" alt="spring"  src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/> <br>
@@ -17,8 +15,11 @@
 <img align="left" width="17%" alt="laravel" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/> <br>
 <img align="left" width="17%" alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/> <br>
 <img align="left" width="17%" alt="express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> <br>
+<img align="left" width="17%" alt="express" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/> <br>
+
 <img align="left" width="17%" alt="javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <br>
 <img align="left" width="17%" alt="html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <br>
+<img align="left" width="17%" alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <br>
 <img align="left" width="17%" alt="angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/> <br>
 <img align="left" width="17%" alt="react" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <br>
 <img align="left" width="17%" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> <br>
@@ -27,10 +28,13 @@
 <img align="left" width="17%" alt="heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/> 
 <img align="left" width="17%" alt="digital ocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
 
-
  </br> </br>
 
-                    <p align="center"> How to reach me: arthus@avarthusdev.com </p>            
+
+
+
+                    
+                     
  
    
     
