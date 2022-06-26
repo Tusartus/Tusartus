@@ -30,8 +30,8 @@
 
  </br> </br>
 
-              
- How to reach me: arthus@avarthusdev.com
+  <p> How to reach me: arthus@avarthusdev.com </p>            
+ 
    
     
                       
