@@ -30,7 +30,7 @@
 
  </br> </br>
 
-  <p> How to reach me: arthus@avarthusdev.com </p>            
+                    <p align="center"> How to reach me: arthus@avarthusdev.com </p>            
  
    
     
