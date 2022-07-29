@@ -1,5 +1,5 @@
 - 👋 Hi,there. I’m Arthus
--  How to reach me: arthus@avarthusdev.com
+
 
 <img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tusartus&show_icons=true&theme=radical"  />
 
