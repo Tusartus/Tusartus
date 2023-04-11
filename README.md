@@ -1,4 +1,15 @@
 - 👋 Hi,there. I’m Arthus
+- I'm passionate IT software development: Backend and Frontend.
+I really enjoy developing, testing, designing of software application
+Backend: 
+ * Spring boot - hibernate - Java +8 .
+ * Nodejs - Express.js
+Frontend: 
+ * Javascript , HTML5, CSS3 
+ * Angular 6 ..15: latest - Typescript - PrimeNG, Angular material UI- bootstrap
+TDD:
+*  Junit5, Mockito,
+* Jasmine     
 
 
 <img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tusartus&show_icons=true&theme=radical"  />
@@ -28,6 +39,9 @@
 <img align="left" width="17%" alt="heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/> 
 <img align="left" width="17%" alt="digital ocean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/>
 
+<img align="left" width="17%" alt="jwt" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
+<img align="left" width="17%" alt="postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img align="left" width="17%" alt="azure cloud" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
  </br> </br>
 
 
