@@ -7,8 +7,8 @@ Backend:
  <br>
 Frontend: 
  * Javascript , HTML5, CSS3 
- * Angular 6 ..15: latest - Typescript - PrimeNG, Angular material UI- bootstrap
-TDD:
+ * Angular 6 ..15: latest - Typescript - PrimeNG, Angular material UI- bootstrap<br> <br>
+TDD:<br>
 *  Junit5, Mockito,
 * Jasmine     
 
