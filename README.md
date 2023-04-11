@@ -3,7 +3,8 @@
 I really enjoy developing, testing, designing of software application
 Backend: 
  * Spring boot - hibernate - Java +8 .
- * Nodejs - Express.js
+ * Nodejs - Express.js 
+ <br>
 Frontend: 
  * Javascript , HTML5, CSS3 
  * Angular 6 ..15: latest - Typescript - PrimeNG, Angular material UI- bootstrap
@@ -11,7 +12,7 @@ TDD:
 *  Junit5, Mockito,
 * Jasmine     
 
-
+ <br>  <br>  <br>  
 <img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tusartus&show_icons=true&theme=radical"  />
 
 <img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusartus&layout=compact)](https://github.com/Tusartus/github-readme-stats"  />
