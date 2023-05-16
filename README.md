@@ -7,10 +7,11 @@ Backend:
  <br>
 Frontend: 
  * Javascript , HTML5, CSS3 
- * Angular 6 ..15: latest - Typescript - PrimeNG, Angular material UI- bootstrap<br> <br>
+ * Angular 6 .. latest - Typescript - bootstrap<br> <br>
+ * <strong> Reactjs web app </strong>
 TDD:<br>
 *  Junit5, Mockito,
-* Jasmine     
+     
 
  <br>  <br>  <br>  
 <img  align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tusartus&show_icons=true&theme=radical"  />
