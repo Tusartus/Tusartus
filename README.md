@@ -8,7 +8,7 @@ Backend:
 Frontend: 
  * Javascript , HTML5, CSS3 
  * Angular 6 .. latest - Typescript - bootstrap<br> <br>
- * <strong> Reactjs web app </strong>
+ * <strong> Reactjs web app </strong> <br><br>
 TDD:<br>
 *  Junit5, Mockito,
      
