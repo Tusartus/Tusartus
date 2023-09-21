@@ -44,7 +44,7 @@ I'm a DevOps Engineer with a passion for cloud technologies, automation, and sof
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusartus&show_icons=true&locale=en" alt="tusartus" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusartus&" alt="tusartus" /></p>
+
 
 ## 
 
@@ -81,7 +81,7 @@ I'm a DevOps Engineer with a passion for cloud technologies, automation, and sof
 <p align="left">
 
 <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img align="left" width="17%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+    <img align="left" width="25%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
 </a>
 
 <a  href="https://www.python.org/" target="_blank" rel="noreferrer">
@@ -114,24 +114,23 @@ I'm a DevOps Engineer with a passion for cloud technologies, automation, and sof
 
 </p>
 
-
-
-
-  <p align="left"></p>  
- ## 
-
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusartus&show_icons=true&locale=en&layout=compact" alt="tusartus" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusartus&show_icons=true&locale=en" alt="tusartus" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tusartus&" alt="tusartus" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusartus&show_icons=true&locale=en" alt="tusartus" /></p>
+
+
+
+
+   
+ ## 
 
 
 <br> 
 
 ## 
-
+ <p align="left"></p>
 
 # Key Skills
 
