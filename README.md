@@ -154,7 +154,7 @@ I'm a DevOps Engineer with a passion for cloud technologies, automation, and sof
 - Implemented robust monitoring and alerting using Prometheus and Grafana for enhanced visibility.
 - Reduced deployment times while enhancing system reliability.
 
-- [link video ](https://learn.microsoft.com/en-us/users/arthusnizere-8170/credentials/805dad4052062d7d)
+- [link video ](https://www.canva.com/design/DAFvEkm3V_k/vc-e0cjb9iHLslkXDJrlgg/watch?utm_content=DAFvEkm3V_k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ### Project 2: DevOps Excellence
 
