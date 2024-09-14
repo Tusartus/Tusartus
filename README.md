@@ -187,9 +187,7 @@ database management, and  Stripe Api payment gateway integration for a complete 
 
 In 2021, I earned the Java Web Developer Nanodegree certificate through Udacity, solidifying my skills in web development and Java-based technologies.
 
-## Connect with Me
 
-Let's connect and collaborate on exciting cloud and DevOps projects. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/arthus-nizere-50484a161/)!
 
 Happy Coding! 🚀
 
