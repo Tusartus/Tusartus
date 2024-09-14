@@ -1,8 +1,6 @@
 # Welcome to My GitHub Profile!
 
-## About Me
-<h1 align="center">Hi 👋, I'm Arthus</h1>
-I'm a DevOps Engineer with a passion for cloud technologies, automation, and software development. I have a strong background in Springboot - java web development, Azure, Kubernetes, Docker, and a variety of DevOps tools. I hold certifications in Azure (AZ-104 & AZ-400), demonstrating my commitment to continuous learning and expertise in the field.
+
 
 ## Certifications
 
