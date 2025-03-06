@@ -1,20 +1,6 @@
 # Welcome to My GitHub Profile!
 
 
-
-## Certifications
-
-- Microsoft Certified: Azure Administrator Associate (AZ-104)
-- Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)
-
-- [View my Certifications az-400](https://learn.microsoft.com/en-us/users/arthusnizere-8170/credentials/805dad4052062d7d)
-- [view my Certification az-104](https://learn.microsoft.com/en-us/users/arthusnizere-8170/credentials/e65b46d4b021b846)
-
-- 📫 
-
-
-
-
 <h3 align="left">Cloud & devops Tools:</h3>
 <div align="left">
 <img align="left" style="padding-right: 10px;" alt="cloud & devops" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
@@ -137,57 +123,7 @@
 ## 
  <p align="left"></p>
 
-# Key Skills
-
-- **Cloud Platforms:** Microsoft Azure, AWS (Basic familiarity)
-- **Container Orchestration:** Kubernetes (AKS)
-- **DevOps Tools:** Git, Docker, Jenkins, ArgoCD, Terraform, Helm
-- **CI/CD:** Azure DevOps CI/CD, Jenkins, github action
-- **Monitoring and Logging:** Prometheus, Grafana
-- **Programming Languages:** Java (Spring Boot, Junit,Mockito), Python (Flask), JavaScript (Node.js, Angular2+)
-- **Database Management:** MySQL, PostgreSQL
-- **Agile Project Management:** Jira - azure board
-
-- 👨‍💻 some of my projects:
-
-## Projects
-
-### Project 1: Full Automation Pipeline with Jenkins
-
-- Leveraged Spring Boot, MySQL database, AKS, Docker, SonarQube, GitHub, Jenkins, and ArgoCD to automate application deployment.
-- Implemented robust monitoring and alerting using Prometheus and Grafana for enhanced visibility.
-- Reduced deployment times while enhancing system reliability.
-
-- [link video ](https://www.canva.com/design/DAFvEkm3V_k/vc-e0cjb9iHLslkXDJrlgg/watch?utm_content=DAFvEkm3V_k&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
-
-### Project 2: DevOps Excellence
-
-- Orchestrated seamless CI/CD workflows using Azure DevOps, Terraform, Azure CLI, Docker, AKS, Azure Cloud Storage, and ARM templates.
-- Implemented a robust code review process, resulting in a 20% reduction in bugs.
-- Enhanced project management and collaboration through Jira, resulting in more efficient development cycles.
-
-### Project 3: Azure CI/CD Pipeline with Jenkins
-
-- Deployed static websites using GitHub, Jenkins, Azure Container Registry, Azure Container App, azure devops cicd, and Azure App Service.
-
-### Project 4: Provision Necessary Resources with Terraform
-
-- Utilized Infrastructure as Code (IaC) to provision essential resources on Azure, including AKS, to deploy software using Azure DevOps CI/CD pipelines.
-
-### E-Commerce Web Application with Stripe Payment Integration:
-
-Developed a feature-rich e-commerce web application using Spring Boot, Hibernate, MySQL, Thymeleaf, REST APIs,
-cloudinary or AWS S3 and Angular 14 for the front-end. Key highlights include user authentication, product
-management, shopping cart functionality, and a secure checkout process. Additionally, integrated Stripe payment
-processing to facilitate seamless and secure payments. Demonstrated expertise in end-to-end web development,
-database management, and  Stripe Api payment gateway integration for a complete e-commerce solution..
-
-
-## Java Web Developer Nanodegree
-
-In 2021, I earned the Java Web Developer Nanodegree certificate through Udacity, solidifying my skills in web development and Java-based technologies.
-
-
+#
 
 Happy Coding! 🚀
 
