@@ -21,16 +21,7 @@
       <p align="left"></p> 
 
 
- ## 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusartus&show_icons=true&locale=en&layout=compact" alt="tusartus" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusartus&show_icons=true&locale=en" alt="tusartus" /></p>
-
-
-
-## 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -106,24 +97,9 @@
 <br>
  <br>  
 
-<img align="center" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tusartus&layout=compact" alt="Tusartus' Most Used Languages" />
-
-
-
-<br>
-<hr>
-
 
    
- ## 
 
-
-<br> 
-
-## 
- <p align="left"></p>
-
-#
 
 Happy Coding! 🚀
 
